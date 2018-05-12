@@ -1,0 +1,43 @@
+_repo: South-America-To-dayA-Study-of-Conditions-Social-Political-and-Commercial-in-Argentina-Urugua__45621
+_version: 0.1.0
+alternative_title: Notes de voyage dans l'Amérique du Sud. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clemenceau, Georges
+    aliases:
+    - Clemenceau, Georges Eugène Benjamin
+    - Clemenceau, Georges Eugene Benjamin
+    birthdate: 1841
+    deathdate: 1929
+    gutenberg_agent_id: '40732'
+    url: http://www.gutenberg.org/2009/agents/40732
+    wikipedia: https://en.wikipedia.org/wiki/Georges_Clemenceau
+description: ''
+gutenberg_issued: '2014-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45621'
+  lccn: '11030050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Description and travel'
+- !lcsh 'South America -- Description and travel'
+- !lcsh 'Brazil -- Description and travel'
+- !lcc 'F2801'
+- !lcsh 'Uruguay -- Description and travel'
+tableOfContents: The outward voyage -- Montevideo and Buenos Ayres -- Foreign colonists
+  in Argentina -- Argentine education, hospitals, and asylums -- Argentine types,
+  manners, and morals -- Argentine politics -- Pampas life -- Farming and sport --
+  Rosario and Tucuman -- Uruguay and Uruguayans -- Rio de Janeiro -- Brazilian society
+  and scenery -- Brazilian coffee.
+title: 'South America To-day
+
+  A Study of Conditions, Social, Political and Commercial in Argentina, Uruguay and
+  Brazil'
+url: http://www.gutenberg.org/ebooks/45621
